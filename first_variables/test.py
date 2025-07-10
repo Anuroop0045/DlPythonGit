@@ -1,4 +1,3 @@
 name = "Anuroop"
 name1 = "Reddy"
-FullName = name + name1
-print(FullName)
+print("my name is " +name+ ""+name1)
